@@ -43,6 +43,4 @@ The program processes **4 input videos** (`street.mp4`, `singapore.mp4`, `traffi
 
 ## ⚙️ Setup Guide  
 
-For detailed installation and configuration steps, see the [Setup Guide](https://github.com/ChristinaTUNA/Youtube-Video-Processing/blob/main/Guideline%20to%20run%20the%20code.pdf).  
-
-
+For detailed installation and configuration steps, see the [Setup Guide](https://github.com/ChristinaTUNA/Youtube-Video-Processing/blob/main/Guideline%20to%20run%20the%20code.pdf).
